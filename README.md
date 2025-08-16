@@ -17,7 +17,7 @@ Velero is an open-source tool used for backing up and restoring Kubernetes clust
 
 ## Example
 
-## AWS
+### AWS
 ```
 velero install \
     --provider aws \
@@ -27,7 +27,7 @@ velero install \
     --snapshot-location-config region=$REGION \
     --secret-file ./credentials-velero
 ```
-## Google
+### Google
 ```
 velero install \
     --provider gcp \
