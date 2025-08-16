@@ -1,4 +1,5 @@
-<img width="1836" height="780" alt="image" src="https://github.com/user-attachments/assets/270b4734-d68b-43ab-adf2-e9eafc62b8e2" />
+<img width="1836" height="780" alt="image" src="https://github.com/user-attachments/assets/642340c8-1ad3-4f75-8dc2-264e040c83bf" />
+
 
 ###  Velero | Kubernetes ☸️
 Velero is an open-source tool used for backing up and restoring Kubernetes cluster resources and persistent volumes. It's a crucial component for disaster recovery, enabling users to recover from data loss or cluster failure by restoring their Kubernetes environment to a previous state. Velero also facilitates migrations between Kubernetes clusters and helps create development and testing environments by replicating cluster resources
